@@ -1,4 +1,4 @@
-# Romanovska Julia
-My projects;
-My mini-projects:
+# Julia Romanovska
+# My projects;
+# My mini-projects:
 
