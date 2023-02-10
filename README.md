@@ -1,7 +1,7 @@
 # Julia Romanovska
-Hi :hugs: 
+Hi! 
 I have always been interested in the process of creating websites and finally thanks [Women Who Code Kyiv](https://www.facebook.com/wwcodekyiv)
-and mentor support [Liuba Kuibida](https://medium.com/@ni4yja) I have my first projects (and mini-projects :blush: ) The most exciting thing for me is the moment of turning complex into simple.
+and mentor support [Liuba Kuibida](https://medium.com/@ni4yja) I have my first projects (and mini-projects :) ) The most exciting thing for me is the moment of turning complex into simple.
 
 ## My projects
 
