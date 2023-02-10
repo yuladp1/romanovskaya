@@ -17,10 +17,9 @@ Implemented dropdown blocks in the FAQ section by passing array elements to the 
 
 ## My mini-projects:
 
-### * * Reaction timer * *
+### Reaction timer 
 
-### * * TODO app * *
+### TODO app 
 
-### * * Web forms * *
-
+### Web forms
 
