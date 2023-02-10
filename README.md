@@ -16,10 +16,10 @@ In this project, I created json and fetched data from it using fetch.
 Implemented dropdown blocks in the FAQ section by passing array elements to the child template
 
 ## My mini-projects:
-### Reaction timer (Vue)
+### * *Reaction timer* * (Vue)
 
-### TODO app
+### * *TODO app* *
 
-### Web forms
+### * *Web forms* *
 
 
