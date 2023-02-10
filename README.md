@@ -17,9 +17,9 @@ Implemented dropdown blocks in the FAQ section by passing array elements to the 
 
 ## My mini-projects:
 
-### Reaction timer 
+### [Reaction timer](https://github.com/yuladp1/vue-reaction-timer)
 
-### TODO app 
+### [TODO app](https://github.com/yuladp1/todoapp)
 
-### Web forms
+### [Web forms](https://github.com/yuladp1/web-forms)
 
