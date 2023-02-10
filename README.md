@@ -15,6 +15,12 @@ Project made with VueCli
 In this project, I created json and fetched data from it using fetch.
 Implemented dropdown blocks in the FAQ section by passing array elements to the child template
 
+
+### Portfolio  [source code](https://github.com/yuladp1/portfolio-vuetify)  [live site](https://romanovskaya-portfolio.netlify.app/)
+In a portfolio project, I first used the Vuetify library (using a grid system and built-in elements),
+GSAP is used for animation and the Scrolltriger plugin is connected
+
+
 ## My mini-projects:
 
 ### [Reaction timer](https://github.com/yuladp1/vue-reaction-timer)
