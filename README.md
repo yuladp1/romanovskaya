@@ -1,4 +1,6 @@
 # Julia Romanovska
+Hello! I have always been interested in the process of creating websitesand finally thanks [Women Who Code Kyiv](https://www.facebook.com/wwcodekyiv)
+и and mentor support [Liuba Kuibida](https://medium.com/@ni4yja) I have my first projects (and mini-projects :) ) The most exciting thing for me is the moment of turning complex into simple.
 
 ## My projects
 ### **Growfy** [source code](https://github.com/yuladp1/growfy) [live site](https://yuladp1.github.io/growfy/)
