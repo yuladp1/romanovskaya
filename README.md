@@ -5,6 +5,9 @@ and mentor support [Liuba Kuibida](https://medium.com/@ni4yja) I have my first p
 
 ## My projects
 
+
+### **Recipe App**  [source code](https://github.com/yuladp1/recipe-app) [live site](https://recipe-app-vite.netlify.app/)
+I'm using Vue3,  Pinia and Bulma. In this project I use vue-router and dynamic routing (there are several pages in the application) Implemented data storage using Pinia. Also I fetch test data from json and then add new data to it via form.
 ### **Growfy** [source code](https://github.com/yuladp1/growfy) [live site](https://yuladp1.github.io/growfy/)
 The project used HTML, CSS, Vue, also used gsap
 ### **RELVISE** [source code](https://github.com/yuladp1/relvise-vue)  [live site](https://yuladp1.github.io/relvise-vue/)
