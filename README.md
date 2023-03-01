@@ -3,8 +3,10 @@ Hi!
 I have always been interested in the process of creating websites and finally thanks [Women Who Code Kyiv](https://www.facebook.com/wwcodekyiv)
 and mentor support [Liuba Kuibida](https://medium.com/@ni4yja) I have my first projects (and mini-projects :) ) The most exciting thing for me is the moment of turning complex into simple.
 
-## My projects
+My skills: HTML, CSS, SCSS, GIT, VUE, Pinia, Vuetify, Bulma, Gsap. 
+Familiar with Figma, Asana, Trello.
 
+## My projects
 
 ### **Recipe App**  [source code](https://github.com/yuladp1/recipe-app) [live site](https://recipe-app-vite.netlify.app/)
 I'm using Vue3,  Pinia and Bulma. In this project I use vue-router and dynamic routing (there are several pages in the application) Implemented data storage using Pinia. Also I fetch test data from json and then add new data to it via form.
