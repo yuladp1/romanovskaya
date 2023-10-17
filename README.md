@@ -7,6 +7,9 @@ My skills: HTML, CSS, SCSS, GIT, VUE, Pinia, Vuetify, Bulma, Gsap.
 Familiar with Figma, Asana, Trello.
 
 ## My projects
+### **Murrfecto**  [source code](https://github.com/yuladp1/murrfecto-vue) [live site](https://recipe-app-vite.netlify.app/](https://murrfecto-vue.netlify.app/)
+I'm using Vue3,  Pinia and Bulma. In this project I use vue-router and dynamic routing (there are several pages in the application) Implemented data storage using Pinia. Also I fetch test data from json and then add new data to it via form.
+
 
 ### **Recipe App**  [source code](https://github.com/yuladp1/recipe-app) [live site](https://recipe-app-vite.netlify.app/)
 I'm using Vue3,  Pinia and Bulma. In this project I use vue-router and dynamic routing (there are several pages in the application) Implemented data storage using Pinia. Also I fetch test data from json and then add new data to it via form.
