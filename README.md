@@ -7,7 +7,7 @@ My skills: HTML, CSS, SCSS, GIT, VUE3, Nuxt3, Tailwind, Bulma, Gsap.
 Familiar with Figma, Asana, Trello.
 
 ## My projects
-### **Nuxt-test-catalog** [source code](https://github.com/yuladp1/nuxt-catalog)[live site](https://nuxt-test-app.netlify.app/)
+### **Nuxt-test-catalog** [source code](https://github.com/yuladp1/nuxt-catalog) [live site](https://nuxt-test-app.netlify.app/)
 Nuxt3, Tailwind, REST API, NuxtUI, VueUse (clickOutside), Nuxt modules (cookie-control), Algolia. Also I used web3forms.com for contact form.
 ### **Murrfecto**  [source code](https://github.com/yuladp1/murrfecto-vue) [live site](https://murrfecto-vue.netlify.app/)
 I'm using Vue3, vue-router and dynamic routing. 
